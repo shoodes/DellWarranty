@@ -1,5 +1,4 @@
-# DellWarranty
-Dell Warranty API Script v0.01    
+#Dell Warranty API Script v0.01    
 
 This script is a fork of Hull1 Dell Warranty API.
 
